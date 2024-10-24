@@ -38,6 +38,7 @@ jobs:
             loading/multiple_threads_loading/ \
             loading/threads/ \
             misc/matrix_transform/ \
+            misc/2.5d/ \
             mobile/android_iap/ \
             mobile/sensors/ \
             mono/ \
